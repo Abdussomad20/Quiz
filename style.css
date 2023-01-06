@@ -10,7 +10,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 90vh;
+    height: 100vh;
     overflow: hidden;
     margin: 0;
 }
@@ -49,7 +49,7 @@ button{
     cursor: pointer;
     font-size: 1.1rem;
     font-family: inherit;
-    padding: 1rem;
+    padding: 1.3rem;
 }
 button:hover{
     background-color: #04adc4;
@@ -57,4 +57,8 @@ button:hover{
 button:focus{
     outline: none;
     background-color: #44b927;
+}
+h3 {
+    color: #04adc4;
+    text-align: center;
 }
