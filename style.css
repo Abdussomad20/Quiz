@@ -10,7 +10,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 90vh;
     overflow: hidden;
     margin: 0;
 }
@@ -49,7 +49,7 @@ button{
     cursor: pointer;
     font-size: 1.1rem;
     font-family: inherit;
-    padding: 1.3rem;
+    padding: 1rem;
 }
 button:hover{
     background-color: #04adc4;
